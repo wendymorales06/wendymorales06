@@ -1,16 +1,27 @@
-## Hi there 👋
+¡Hola! Soy Wendy Morales 👋
 
-<!--
-**wendymorales06/wendymorales06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Datos | SQL | BigQuery | Power BI | Excel
 
-Here are some ideas to get you started:
+Soy Ingeniera Informática orientada al análisis de datos y al desarrollo de soluciones que permitan transformar información en conocimiento útil para la toma de decisiones empresariales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy fortaleciendo mis habilidades en análisis de datos mediante proyectos prácticos enfocados en comercio electrónico, ventas, comportamiento de clientes y operaciones.
+
+🛠️ Herramientas y tecnologías
+
+SQL: consultas, JOINs, CTEs, subconsultas y funciones de ventana.
+
+Google BigQuery: extracción, transformación y análisis de datos.
+
+Power BI: visualización, modelado de datos y elaboración de dashboards.
+
+Excel: análisis y organización de información.
+
+📊 Proyectos
+
+Maven Fuzzy Factory: análisis del rendimiento comercial de un e-commerce, comportamiento de sesiones, ventas y rentabilidad.
+
+Olist E-commerce: análisis de satisfacción del cliente y desempeño logístico.
+
+🎯 Objetivo profesional
+
+Desarrollarme como Analista de Datos, aportando capacidad analítica, pensamiento crítico y soluciones basadas en datos para apoyar las decisiones del negocio.
